@@ -1,0 +1,16 @@
+
+
+.checkOfferContainer{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 200px auto;
+    text-align: center;
+    
+}
+
+.accept{
+    width: 70%;
+    text-align: center;
+    margin-top:120px ;
+}
